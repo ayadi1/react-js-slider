@@ -2,4 +2,4 @@
 
 #### IN ACTION
 
-[Gatsby-Airtable Project](https://slider-react-js-ayadi.netlify.app/)
+[ live app](https://slider-react-js-ayadi.netlify.app/)
